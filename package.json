@@ -1,0 +1,22 @@
+{
+  "name": "workout",
+  "version": "1.0.0",
+  "description": "Workout made with Vue 3",
+  "main": "index.js",
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.0.0-alpha.4",
+    "npm": "^6.14.7",
+    "vue": "^3.0.0-alpha.4",
+    "vue-cli-plugin-vue-next": "^0.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "workout",
+    "vue"
+  ],
+  "author": "Jelte Wiersma",
+  "license": "ISC"
+}
